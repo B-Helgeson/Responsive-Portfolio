@@ -228,6 +228,21 @@ footer {
 @media screen and (max-width: 980px) {
     
 /* Need to code out ;arge format here */
+    .main-section{
+        width:60%;
+    }
+    .sidebar{
+        width:60%;
+    }
+
+    #maincontainer {
+        padding: 20px;
+    }
+
+    .auth-image {
+        width: 100%;
+        padding-bottom: 40px;
+    }
 
     }
 
@@ -240,14 +255,20 @@ footer {
 
     .sidebar {
         max-width: none;
+        width:100%;
     }
     #main-container {
         padding: 20px;
-        padding-top: 200px;
+        padding-top: 130px;
     }
-    .work {
+
+    .main-section{
+        max-width: none;
         width:100%;
     }
+    /* .work {
+        width:50%;
+    } */
     }
     
 @media screen and (max-width: 640px) {
