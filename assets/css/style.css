@@ -227,7 +227,6 @@ footer {
 
 @media screen and (max-width: 980px) {
     
-/* Need to code out ;arge format here */
     .main-section{
         width:60%;
     }
@@ -266,9 +265,7 @@ footer {
         max-width: none;
         width:100%;
     }
-    /* .work {
-        width:50%;
-    } */
+
     }
     
 @media screen and (max-width: 640px) {
@@ -300,6 +297,5 @@ footer {
     .work {
         width:100%;
     }
+
     }
-
-
